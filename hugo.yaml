@@ -57,9 +57,9 @@ params:
 
   
   p4:
-    heading: "From the blog"
+    heading: "Kategori"
     content:
-      - text: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsa libero labore natus atque, ducimus sed."
+      - text: "Mau belajar apa hari ini..?"
   p5:
     heading: "Stay Up to Date"
     content:
@@ -86,9 +86,9 @@ params:
 
 menu:
   main:
-    - identifier: prose
-      name: Prose
-      url: /prose/
+    - identifier: Home
+      name: Home
+      url: /home/
       weight: 10
     - identifier: about
       name: About
@@ -160,6 +160,9 @@ privacy:
   youtube:
     disable: false
     privacyEnhanced: true
+
+outputs:
+  home = HTML, RSS, JSON
 
 module:
   hugoVersion:
