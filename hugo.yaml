@@ -123,6 +123,7 @@ menu:
       weight: 30
     - identifier: posts
       name: Post
+      weight: 30
       url: /categories/posts/
       weight: 30
     - identifier: about
