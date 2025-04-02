@@ -1,0 +1,8 @@
+build/**/* linguist-generated=true
+/build/**/* linguist-generated=true
+/build/**/*.html linguist-generated=true
+build/*.html linguist-generated=true
+build/ linguist-generated=true
+/build/ linguist-generated=true
+build/name.html linguist-generated=true
+/build/name.html linguist-generated=true
