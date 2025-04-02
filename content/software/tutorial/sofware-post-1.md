@@ -1,15 +1,15 @@
 ---
-title: "Windows 10 Stop Update"
+title: "Software"
 date: 2022-06-18T11:10:36+08:00
 draft: false
 language: en
-featured_image: ../assets/images/posts/web-programing.png
-summary: Tutorial Seputar Sofware
+featured_image: ../assets/images/posts/software.jpg
+summary: Belajar Pemrograman Python
 description: Mengenal Variabel dan Tipe Data dalam Python
 author: Absolute Comp
 authorimage: ../assets/images/global/author.webp
-categories: Posts
-tags: Posts
+categories: Software
+tags: Software
 ---
 __Advertisement :smile:__
 

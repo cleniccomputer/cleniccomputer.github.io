@@ -105,17 +105,25 @@ menu:
       url: /contact/
       weight: 50
   categories:
-    - identifier: prose
-      name: Prose
-      url: /prose/
+    - identifier: home
+      name: Home
+      url: /home/
       weight: 10
-    - identifier: blog
-      name: Blog
-      url: /categories/blog/
-      weight: 20
-    - identifier: news
-      name: News
-      url: /categories/news/
+    - identifier: software
+      name: Software
+      url: /categories/software/
+      weight: 30
+    - identifier: pemprograman
+      name: Pemprograman
+      url: /categories/pemprograman/
+      weight: 30
+    - identifier: tutorial
+      name: Tutorial
+      url: /categories/tutorial/
+      weight: 30
+    - identifier: posts
+      name: Post
+      url: /categories/posts/
       weight: 30
     - identifier: about
       name: About
