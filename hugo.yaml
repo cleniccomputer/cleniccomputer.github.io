@@ -50,8 +50,8 @@ params:
   author: Absolute Comp
   authorimage: ../assets/images/global/author.webp
   og_image: ../images/petani-kode.png
-  moto: "Super Fast, and Flexible"
-  description: "A Hugo theme built with love, using TailwindCSS 3, Alpine.JS, and Hugo Pipes. Images are optimized for use with Hugo Pipes for WebP format."
+  moto: "Belajar budidaya koding."
+  description: "Belajar budidaya kode (coding) dengan tutorial yang mudah dipahami. Mostly pakai Linux."
   disable_theme_toggle: false
   disable_stay_uptodate: false
 
@@ -61,28 +61,30 @@ params:
     content:
       - text: "Mau belajar apa hari ini..?"
   p5:
-    heading: "Stay Up to Date"
+    heading: "Dapatkan Informasi Terbaru"
     content:
-      - text: "Sagittis scelerisque nulla cursus in enim consectetur quam. Dictum urna sed consectetur neque tristique pellentesque."
+      - text: "Situs web ini sering diperbarui untuk memastikan bahwa informasi yang disajikan mutakhir ."
     action: "#"
-    label: "Email address"
-    placeholder: "Enter your email"
-    button: "Notify me"
+    label: "Alamat Email"
+    placeholder: "Masukan Email Anda"
+    button: "Beritahu Sya"
 
   social_media:
     github:
       enabled: true
-      url: 'https://github.com/nusserstudios'
+      url: '#'
     facebook:
       enabled: true
-      url: 'https://facebook.com/nusserstudios'
+      url: '#'
     instagram:
       enabled: true
-      url: 'https://instagram.com/nusserstudios'
+      url: '#'
     twitter:
       enabled: true
-      url: 'https://twitter.com/nusserstudios'
-    
+      url: '#'
+    whatsapp:
+      enabled: true
+      url: '#'     
 
 menu:
   main:
